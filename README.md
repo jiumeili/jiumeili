@@ -1,13 +1,13 @@
-<img width="333" height="236" alt="AD37A6E6-CB45-42EA-A7EA-5B2E9788B0BD" src="https://github.com/user-attachments/assets/41482ef1-eb2c-411e-aac3-38cff8fa8c54" />
+<<img width="500" height="280" alt="FFB29DA6-2FD9-4130-8A54-EB912820F6AB" src="https://github.com/user-attachments/assets/ba7e4ee3-4119-4f16-aa77-281c7e8c75d8" /> />
 
 
 
 
 
 
-<p align="center">please read links before interacting.</p>
+<p align="center">strawpage in progress.</p>
 
-![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=000000&label=sparrows%20)
+![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=000000&label=jasmines%20)
 
 
 
