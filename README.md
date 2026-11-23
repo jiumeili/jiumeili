@@ -6,6 +6,7 @@
 
 
 <p align="center">strawpage in progress.</p>
+<p align="center">Fate or also known as F.E in your strawpages leaving silly drawings here and there. (ᵕ⸝⸝• ᴗ •) </p>
 
 ![](https://komarev.com/ghpvc/?username=your-github-jiumeili&color=000000&label=jasmines%20)
 
